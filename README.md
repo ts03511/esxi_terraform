@@ -1,3 +1,6 @@
 # esxi_terraform
-esxi_terraform
-https://github.com/josenk/terraform-provider-esxi
+## provider
+- https://github.com/josenk/terraform-provider-esxi
+
+## How To terraform init
+- `terraform init -plugin-dir=[plugin-install-dir]`
